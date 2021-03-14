@@ -1,0 +1,138 @@
+Elemente: 1000000 Valoare maxima: 100000
+
+Bubble Sort este ineficient pe tablouri foarte mari.
+Count Sort: 15 milisecunde 1
+Merge Sort: 149 milisecunde 1
+Quick Sort - V1: 191 milisecunde 1
+Quick Sort - V2 - mediana din 3: 3732 milisecunde 0
+Quick Sort - V3 - pivot random: 308 milisecunde 1
+Radix Sort - LSD: 275 milisecunde 1
+Radix Sort - op. pe biti: 115 milisecunde 1
+Sort din STL: 151 milisecunde 1
+
+
+Elemente: 500000 Valoare maxima: 1500000
+
+Bubble Sort este ineficient pe tablouri foarte mari.
+Count Sort nu functioneaza bine pe numere mari (am pus limita 100000).
+Merge Sort: 61 milisecunde 1
+Quick Sort - V1: 89 milisecunde 1
+Quick Sort - V2 - mediana din 3: 1631 milisecunde 0
+Quick Sort - V3 - pivot random: 119 milisecunde 1
+Radix Sort - LSD: 132 milisecunde 1
+Radix Sort - op. pe biti: 58 milisecunde 1
+Sort din STL: 71 milisecunde 1
+
+
+Elemente: 100000 Valoare maxima: 500
+
+Bubble Sort este ineficient pe tablouri foarte mari.
+Count Sort: 0 milisecunde 1
+Merge Sort: 15 milisecunde 1
+Quick Sort - V1: 25 milisecunde 1
+Quick Sort - V2 - mediana din 3: 39 milisecunde 0
+Quick Sort - V3 - pivot random: 88 milisecunde 1
+Radix Sort - LSD: 15 milisecunde 1
+Radix Sort - op. pe biti: 8 milisecunde 1
+Sort din STL: 10 milisecunde 1
+
+
+Elemente: 500000 Valoare maxima: 25000
+
+Bubble Sort este ineficient pe tablouri foarte mari.
+Count Sort: 3 milisecunde 1
+Merge Sort: 59 milisecunde 1
+Quick Sort - V1: 91 milisecunde 1
+Quick Sort - V2 - mediana din 3: 72 milisecunde 0
+Quick Sort - V3 - pivot random: 130 milisecunde 1
+Radix Sort - LSD: 135 milisecunde 1
+Radix Sort - op. pe biti: 48 milisecunde 1
+Sort din STL: 71 milisecunde 1
+
+
+Elemente: 2500 Valoare maxima: 2500
+
+Bubble Sort: 21 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 0 milisecunde 1
+Quick Sort - V1: 0 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 0
+Quick Sort - V3 - pivot random: 0 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
+
+
+
+Array deja sortat :
+Elemente: 1000000 Valoare maxima: 100000
+
+Bubble Sort: 0 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 0 milisecunde 1
+Quick Sort - V1: 10 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 1
+Quick Sort - V3 - pivot random: 0 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
+Array deja sortat :
+Elemente: 500000 Valoare maxima: 1500000
+
+Bubble Sort: 0 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 0 milisecunde 1
+Quick Sort - V1: 2 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 1
+Quick Sort - V3 - pivot random: 0 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
+Array deja sortat :
+Elemente: 100000 Valoare maxima: 500
+
+Bubble Sort: 0 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 2 milisecunde 1
+Quick Sort - V1: 0 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 1
+Quick Sort - V3 - pivot random: 8 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
+Array deja sortat :
+Elemente: 500000 Valoare maxima: 25000
+
+Bubble Sort: 0 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 0 milisecunde 1
+Quick Sort - V1: 6 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 1
+Quick Sort - V3 - pivot random: 0 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
+Array deja sortat :
+Elemente: 2500 Valoare maxima: 2500
+
+Bubble Sort: 0 milisecunde 1
+Count Sort: 0 milisecunde 1
+Merge Sort: 0 milisecunde 1
+Quick Sort - V1: 10 milisecunde 1
+Quick Sort - V2 - mediana din 3: 0 milisecunde 1
+Quick Sort - V3 - pivot random: 0 milisecunde 1
+Radix Sort - LSD: 0 milisecunde 1
+Radix Sort - op. pe biti: 0 milisecunde 1
+Sort din STL: 0 milisecunde 1
+
+
